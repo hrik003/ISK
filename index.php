@@ -602,7 +602,7 @@ With a growing global footprint, Our services are available in the United States
 								<h2><a href="#">Make it to the first base</a></h2>
 								
 								<p>
-                                We offer the best computer support services online or by email. We love to accept the challenges and our main challenge is to provide our clients 100% satisfaction computer support. We are working 24x7 to provide you excellent technical support round the clock.
+                                ISK Business Solution offers the best computer support services online or by email. We love to accept the challenges and our main challenge is to provide our clients 100% satisfaction computer support. We are working 24x7 to provide you excellent technical support round the clock.
                                 </p>
 							</div>
 						</div>
